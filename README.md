@@ -1,3 +1,3 @@
-# Programs-written-in-cpp-
+# CPP-Programs
 
 These all are the programs that are written in c++ language.
